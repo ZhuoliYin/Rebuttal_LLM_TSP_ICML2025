@@ -12,4 +12,5 @@ Although our primary goal is not to compete directly with LKH, our experiments s
 | | | | |
 
 
-![](https://github.itap.purdue.edu/uSMART/sustainable-computing/blob/main/sustainale%20AI%20opptimization.jpg)
+![](https://github.itap.purdue.edu/Rebuttal_LLM_TSP_ICML2025/d1291_with_pad.jpg)
+
