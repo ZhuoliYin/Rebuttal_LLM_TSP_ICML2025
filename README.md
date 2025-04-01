@@ -13,4 +13,3 @@ Although our primary goal is not to compete directly with LKH, our experiments s
 
 
 ![](https://github.com/ZhuoliYin/Rebuttal_LLM_TSP_ICML2025/d1291_with_pad.jpg)
-
