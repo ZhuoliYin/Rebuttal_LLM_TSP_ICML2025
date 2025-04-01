@@ -10,3 +10,6 @@ Although our primary goal is not to compete directly with LKH, our experiments s
 | LKH3      | fl1577   | 219s    | 22261           |
 | **LLM-TSP**   |   fl1577       | 202s    | **22253**           |
 | | | | |
+
+
+![](https://github.itap.purdue.edu/uSMART/sustainable-computing/blob/main/sustainale%20AI%20opptimization.jpg)
