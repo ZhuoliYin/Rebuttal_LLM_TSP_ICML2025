@@ -18,4 +18,4 @@ To further illustrate this process, we visualize the top-5 selected rectangles p
 
 Figure 1: First five subproblems selected by LLM-TSP on d1291
 
-![](https://github.com/ZhuoliYin/Rebuttal_LLM_TSP_ICML2025/blob/main/d1291_with_pad.jpg)
+![](https://github.com/ZhuoliYin/Rebuttal_LLM_TSP_ICML2025/blob/main/d1291_with_pad.pdf)
